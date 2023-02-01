@@ -1,6 +1,6 @@
- 🌍HELLO WORLD
+🌍HELLO WORLD
  <HR>
- <img src="https://camo.githubusercontent.com/84113ed63c8f820414bb0c35cb3f37cc8eaec7a70ae3cead15aa7f91fe0ed350/687474703a2f2f73747564696f706978656c2e696e2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966" alt="MarineGEO circle logo" data-canonical-src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage>
+ <img src="https://camo.githubusercontent.com/84113ed63c8f820414bb0c35cb3f37cc8eaec7a70ae3cead15aa7f91fe0ed350/687474703a2f2f73747564696f706978656c2e696e2f77702d636f6e74656e742f75706c6f6164732f323031372f31312f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966" alt="MarineGEO circle logo" data-canonical-src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 ✨ABOUT ME :
 <HR>
 
